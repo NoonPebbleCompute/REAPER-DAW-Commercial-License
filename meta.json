@@ -1,0 +1,29 @@
+{
+  "repo": "reaper-daw-commercial-license",
+  "product": "REAPER DAW Commercial License",
+  "kind": "audio",
+  "install_type": "nexpath",
+  "install_url": "https://reaper.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "audio",
+  "topics": [
+    "reaper",
+    "daw",
+    "audio-recording",
+    "multitrack-editing",
+    "midi-editing",
+    "mixing-console",
+    "home-studio",
+    "music-production",
+    "reaper-setup-failed-fix",
+    "how-to-install-reaper",
+    "reaper-windows",
+    "audio-tools",
+    "windows-tools",
+    "music-utility"
+  ],
+  "stars_cache": 14,
+  "nexpath_slug": "reaper",
+  "nexpath_app_name": "REAPER"
+}
